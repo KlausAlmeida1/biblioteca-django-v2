@@ -21,7 +21,7 @@ pip install -r requirements.txt
 6. Faça as migrações:
 python manage.py migrate
 
-7. popule o banco de dados:
+7. Popule o banco de dados:
 python manage.py populate_db
 
 8. Inicie a aplicação:
