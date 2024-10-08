@@ -1,4 +1,4 @@
-Este projeto é uma aplicação web de gerenciamento de biblioteca desenvolvida com Django e Django REST Framework.  Foi desenvolvido para uma ativdade de residência da CEPEDI pelos residentes Pablo Cezar Moreira Carvalho e Klaus Almeida Souza Santos
+Este projeto é uma aplicação web de gerenciamento de biblioteca desenvolvida com Django e Django REST Framework.  Foi desenvolvido para uma ativdade de residência da CEPEDI pelos residentes Pablo Cezar Moreira Carvalho e Klaus Almeida Souza Santos.
 
 
 Instalação:
