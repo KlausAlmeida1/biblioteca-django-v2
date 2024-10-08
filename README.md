@@ -4,7 +4,7 @@ Este projeto é uma aplicação web de gerenciamento de biblioteca desenvolvida 
 Instalação:
 
 1. Clone o repositório:
-git clone https://github.com/KlausAlmeida1/biblioteca-django-v2.git
+git clone https://github.com/KlausAlmeida1/biblioteca-django-v2
 
 2. Entre na pasta:
 cd biblioteca-django-v2
