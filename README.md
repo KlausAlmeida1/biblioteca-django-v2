@@ -18,13 +18,16 @@ venv\Scripts\activate
 5. Instale as depedências:
 pip install -r requirements.txt
 
-6. Faça as migrações:
+6. Entre na pasta do projeto:
+cd AtividadeMoodle2
+   
+7. Faça as migrações:
 python manage.py migrate
 
-7. Popule o banco de dados:
+8. Popule o banco de dados:
 python manage.py populate_db
 
-8. Inicie a aplicação:
+9. Inicie a aplicação:
 python manage.py runserver
 
 
