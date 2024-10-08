@@ -18,11 +18,13 @@ venv\Scripts\activate
 5. Instale as depedências:
 pip install -r requirements.txt
 
-6. Faça as migrações e popule o banco de dados:
+6. Faça as migrações:
 python manage.py migrate
+
+7. popule o banco de dados:
 python manage.py populate_db
 
-7. Inicie a aplicação:
+8. Inicie a aplicação:
 python manage.py runserver
 
 
